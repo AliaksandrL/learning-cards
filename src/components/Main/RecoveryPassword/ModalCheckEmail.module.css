@@ -1,0 +1,29 @@
+.form {
+    border-radius: 8px;
+    margin-top: 84px;
+    width: 413px;
+    height: 540px;
+    display: flex;
+   justify-content: center;
+    background-color: #73ece9;
+}
+
+.container{
+    width: 320px;
+    margin: 25px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.subTitle {
+    font-size: 26px;
+}
+.title {
+    font-size: 26px;
+    padding: 25px 0;
+}
+
+.description {
+    text-align: center;
+}

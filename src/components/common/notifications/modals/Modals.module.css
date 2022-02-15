@@ -1,0 +1,30 @@
+.form {
+    height: 100vh;
+    width: 100vw;
+    position: fixed;
+    overflow: auto;
+    transform: translate(0%, -100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.modals {
+    display: inherit;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    width: 500px;
+    height: 250px;
+    background-color: lavender;
+    border-radius: 5px;
+}

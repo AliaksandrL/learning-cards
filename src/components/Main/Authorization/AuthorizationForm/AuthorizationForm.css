@@ -1,0 +1,45 @@
+* {box-sizing: border-box}
+
+/* Add padding to containers */
+.authorizationFormContainer {
+    width: 30%;
+    padding: 16px;
+}
+
+.authText {
+    text-align: center;
+}
+
+.authInput {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+}
+
+.authInput:focus {
+    background-color: #ddd;
+    outline: none;
+}
+
+/* Set a style for the submit/register button */
+.authBtn {
+    background-color: #0468aa;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+}
+
+.authBtn:hover {
+    opacity:1;
+}
+
+.authError {
+    color: red;
+}
