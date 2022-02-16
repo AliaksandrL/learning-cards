@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/learning-cards/static/css/main.120d9a39.chunk.css",
+    "main.js": "/learning-cards/static/js/main.fc43d487.chunk.js",
+    "main.js.map": "/learning-cards/static/js/main.fc43d487.chunk.js.map",
+    "runtime-main.js": "/learning-cards/static/js/runtime-main.f47b3fcf.js",
+    "runtime-main.js.map": "/learning-cards/static/js/runtime-main.f47b3fcf.js.map",
+    "static/css/2.4a35ef0a.chunk.css": "/learning-cards/static/css/2.4a35ef0a.chunk.css",
+    "static/js/2.b802873d.chunk.js": "/learning-cards/static/js/2.b802873d.chunk.js",
+    "static/js/2.b802873d.chunk.js.map": "/learning-cards/static/js/2.b802873d.chunk.js.map",
+    "static/js/3.17f3320e.chunk.js": "/learning-cards/static/js/3.17f3320e.chunk.js",
+    "static/js/3.17f3320e.chunk.js.map": "/learning-cards/static/js/3.17f3320e.chunk.js.map",
+    "index.html": "/learning-cards/index.html",
+    "static/css/2.4a35ef0a.chunk.css.map": "/learning-cards/static/css/2.4a35ef0a.chunk.css.map",
+    "static/css/main.120d9a39.chunk.css.map": "/learning-cards/static/css/main.120d9a39.chunk.css.map",
+    "static/js/2.b802873d.chunk.js.LICENSE.txt": "/learning-cards/static/js/2.b802873d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f47b3fcf.js",
+    "static/css/2.4a35ef0a.chunk.css",
+    "static/js/2.b802873d.chunk.js",
+    "static/css/main.120d9a39.chunk.css",
+    "static/js/main.fc43d487.chunk.js"
+  ]
+}
